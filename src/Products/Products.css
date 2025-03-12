@@ -33,9 +33,10 @@
 }
 .card-price {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 .bag-icon {
   color: #535353;
+  margin-left: 10px;
 }
