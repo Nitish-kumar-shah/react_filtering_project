@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_filtering_project/static/css/main.1bf80baf.css",
+    "main.js": "/react_filtering_project/static/js/main.8315e8cb.js",
+    "index.html": "/react_filtering_project/index.html",
+    "main.1bf80baf.css.map": "/react_filtering_project/static/css/main.1bf80baf.css.map",
+    "main.8315e8cb.js.map": "/react_filtering_project/static/js/main.8315e8cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf80baf.css",
+    "static/js/main.8315e8cb.js"
+  ]
+}
